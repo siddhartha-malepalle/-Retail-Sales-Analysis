@@ -1,3 +1,3 @@
 # Data-Analytics-Projects
-Analyzing customer purchasing behavior and the effectiveness of discounts &amp; promotions
+Analyzing customer purchasing behavior and the effectiveness of discounts, analyzed a retail sales dataset (3,900 records) to uncover customer purchasing patterns, spending behavior, and key business insights. Performed data cleaning, exploratory data analysis (EDA) with visualizations. Applied K-Means Clustering to segment customers based on spending habits. Identified top-selling categories, seasonal trends, and the impact of discounts on purchases. Provided data-driven recommendations to optimize marketing and sales strategies. Used Python (Pandas, Matplotlib, Seaborn, Scikit-Learn), SQL, and Power BI for analysis and visualization.
 "# siddhartha-malepalle.github.io" 
